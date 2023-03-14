@@ -1,5 +1,5 @@
 # C Compiler (Clang-12)
-CC := cc
+CC := clang
 # FdF Variables
 NAME := fdf
 INC_DIR := includes/
